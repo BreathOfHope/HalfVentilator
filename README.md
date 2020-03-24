@@ -1,4 +1,4 @@
-# Ventilators
+# Half Ventilators
 
 There are 2 types of ventilation, Invasive and Non-Invasive. In the invasive method of delivery, an endotracheal tube(Tube inserted through the mouth into the trachea) is inserted and connected to a ventilator, while in the non invasive method oxygenated air is delivered through a face mask.
 
